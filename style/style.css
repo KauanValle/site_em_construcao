@@ -16,12 +16,8 @@ body{
     justify-content: center;
     /* height: 100vh; */
 }
-.title{
-    /* border: 1px solid green; */
-    /* margin: 100px; */
-}
 .title h1{
-    font-size: 150px;
+    font-size: 8rem;
     text-align: center;
     /* border: 1px solid yellow; */
 }
